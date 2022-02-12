@@ -19,7 +19,8 @@
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "chromatic": "npx chromatic --project-token=1e59b81fcc14"
   },
   "eslintConfig": {
     "extends": [
